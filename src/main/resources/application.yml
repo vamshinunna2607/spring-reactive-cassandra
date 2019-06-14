@@ -1,0 +1,5 @@
+spring:
+  data:
+    cassandra:
+      cluster-name: Test
+      keyspace-name: sample
