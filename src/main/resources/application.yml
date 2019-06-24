@@ -3,3 +3,8 @@ spring:
     cassandra:
       cluster-name: Test
       keyspace-name: sample
+      
+      
+server:
+  tomcat:
+    max-threads: 2
